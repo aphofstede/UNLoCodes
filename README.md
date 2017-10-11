@@ -15,10 +15,10 @@ The codes are based on entries from governments and international organizations,
 Not having this information available in an API means that many companies and organizations use their own location codes instead of the standardized UN codes. NxtPort is now offering the UN/LOCODE data in a user-friendly API format. No more need for you to download, integrate and update the dataset into your application. When you call the API, you automatically get the correct information.
 
 The UN/LOCODE API allows you to:
+
 * Get location details based on a location code
 * Search for locations based on simple search parameters
 * Search for locations near a point on a map
-* ...
 
 NxtPort keeps the API up-to-date with the latest UN dataset. Any requests for additional services or for locations to be added to the API can be discussed with NxtPort. 
 
@@ -27,11 +27,12 @@ NxtPort keeps the API up-to-date with the latest UN dataset. Any requests for ad
 ```
 /
   /doc            technical documentation about the use of this API
-  /src            sample source code to call this API 
+  /src            sample source code to call this API (coming soon)
 ```
 
 ## More information
 
 More information about this API is available on
+
 * [the NxtPort website](https://www.nxtport.eu)
-* [the NxtPort market](https://market.nxtport.eu)
+* [the NxtPort market](https://market.nxtport.eu) 

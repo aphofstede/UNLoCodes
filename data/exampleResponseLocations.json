@@ -1,0 +1,74 @@
+[
+    {
+        "country": "BE",
+        "code": "ANR",
+        "locode": "BEANR",
+        "name": "Antwerpen (=Antwerp)",
+        "nameWODiacritics": "Antwerpen (=Antwerp)",
+        "subdiv": "VAN",
+        "status": "Code adopted by international  organisation (IATA, ECLAC, EUROSTAT, etc.)",
+        "geolocation": {
+            "latitude": 51.216666,
+            "longitude": 4.416666
+        },
+        "functionality": {
+            "isUnknown": false,
+            "isPort": true,
+            "isRailTerminal": true,
+            "isRoadTerminal": true,
+            "isAirport": true,
+            "isPostalExchangeOffice": true,
+            "hasMultimodalFunction": false,
+            "hasFixedTransportFunction": false,
+            "isBorderCrossing": false
+        }
+    },
+    {
+        "country": "BE",
+        "code": "BOR",
+        "locode": "BEBOR",
+        "name": "Borgerhout",
+        "nameWODiacritics": "Borgerhout",
+        "subdiv": "VAN",
+        "status": "Request from credible national sources for locations in their own country",
+        "geolocation": {
+            "latitude": 51.216666,
+            "longitude": 4.433333
+        },
+        "functionality": {
+            "isUnknown": false,
+            "isPort": false,
+            "isRailTerminal": false,
+            "isRoadTerminal": true,
+            "isAirport": false,
+            "isPostalExchangeOffice": false,
+            "hasMultimodalFunction": false,
+            "hasFixedTransportFunction": false,
+            "isBorderCrossing": false
+        }
+    },
+    {
+        "country": "BE",
+        "code": "BPC",
+        "locode": "BEBPC",
+        "name": "Berchem",
+        "nameWODiacritics": "Berchem",
+        "subdiv": "VAN",
+        "status": "Request from credible national sources for locations in their own country",
+        "geolocation": {
+            "latitude": 51.2,
+            "longitude": 4.433333
+        },
+        "functionality": {
+            "isUnknown": false,
+            "isPort": false,
+            "isRailTerminal": false,
+            "isRoadTerminal": true,
+            "isAirport": false,
+            "isPostalExchangeOffice": false,
+            "hasMultimodalFunction": false,
+            "hasFixedTransportFunction": false,
+            "isBorderCrossing": false
+        }
+    }
+]

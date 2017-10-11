@@ -1,0 +1,68 @@
+[
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "BRU",
+        "subdivisionName": "Bruxelles-Capitale, Région de",
+        "subdivisionType": "Region"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "VAN",
+        "subdivisionName": "Antwerpen",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "VBR",
+        "subdivisionName": "Vlaams Brabant",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "VLI",
+        "subdivisionName": "Limburg",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "VOV",
+        "subdivisionName": "Oost-Vlaanderen",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "VWV",
+        "subdivisionName": "West-Vlaanderen",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "WBR",
+        "subdivisionName": "Brabant wallon",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "WHT",
+        "subdivisionName": "Hainaut",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "WLG",
+        "subdivisionName": "Liège",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "WLX",
+        "subdivisionName": "Luxembourg",
+        "subdivisionType": "Province"
+    },
+    {
+        "countryCode": "BE",
+        "subdivisionCode": "WNA",
+        "subdivisionName": "Namur",
+        "subdivisionType": "Province"
+    }
+]
